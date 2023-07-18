@@ -4,6 +4,6 @@ A collection of utilities to help with pathname operations.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/pathname-utils.git |
-| commit  | 75b1b14                                            |
+| commit  | c89fd69                                            |
 | systems | pathname-utils                                     |
 |---------+----------------------------------------------------|
