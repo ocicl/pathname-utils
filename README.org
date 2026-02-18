@@ -3,7 +3,7 @@
 A collection of utilities to help with pathname operations.
 
 |---------+----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/pathname-utils.git |
-| commit  | d0d4525                                            |
+| source  | git:https://codeberg.org/shinmera/pathname-utils.git |
+| commit  | 0000000                                            |
 | systems | pathname-utils                                     |
 |---------+----------------------------------------------------|
